@@ -1,0 +1,9 @@
+kpi,value
+total_listings,101803.0
+avg_total_price,750.41
+median_total_price,750.0
+avg_review_rate,3.278
+avg_reviews_per_month,1.163
+instant_bookable_share,0.4974
+high_availability_share,0.3611
+avg_minimum_nights,7.94
